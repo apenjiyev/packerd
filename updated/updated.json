@@ -12,7 +12,6 @@
             "type": "shell",
             "inline": [
                 "sudo yum update -y"
-                
             ]
         }
     ]
